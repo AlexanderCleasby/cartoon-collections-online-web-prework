@@ -21,6 +21,7 @@ def find_the_cheese(array)
       return i
     end}
   }
+  nil
 end
 #puts find_the_cheese(["cheddar","welt"])
 #puts summon_captain_planet(["axe", "earth", "wind", "fire", "water", "heart"])
