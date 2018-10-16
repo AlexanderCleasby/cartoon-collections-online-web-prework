@@ -22,6 +22,6 @@ def find_the_cheese(array)
     end}
   }
 end
-puts find_the_cheese(["cheddar","welt"])
+#puts find_the_cheese(["cheddar","welt"])
 #puts summon_captain_planet(["axe", "earth", "wind", "fire", "water", "heart"])
 #binding.pry
