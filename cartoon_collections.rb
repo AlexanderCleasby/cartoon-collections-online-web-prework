@@ -18,7 +18,7 @@ def find_the_cheese(array)
   array.each_with_index{|elem,i|
     cheese_types.each{|cheese|
     if elem.include?(cheese)
-      return i
+      return cheese
     end}
   }
   nil
